@@ -1,0 +1,10 @@
+server:
+    port: 8118
+    servlet:
+        context-path: /p8restdemo
+
+p8:
+    username: p8admin
+    password: Password1
+    url: http://ibmdemo16:9080/wsi/FNCEWS40MTOM/
+    object_store: OS1
